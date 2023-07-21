@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chempik1234)
 
-- :snake: Speaking of **python**, I am familiar to **tkinter, PyQT5, pygame, Flask, Django, SQLite** and also **matplotlib, pptx, json** and many other packages
+- :snake: Speaking of **python**, I am familiar to **tkinter, PyQT5, pygame, Flask, Django, pymodbs, SQLite** and also **matplotlib, pptx, json** and many other packages
 - :nut_and_bolt: I also know some basics of **C++, C# WPF** and **Java**
 - :book: I’m currently learning Django framework 
 - :white_check_mark: I’m currently working on a **Python E-shop web-applicaion**
