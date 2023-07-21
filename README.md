@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 👋 I'm chempik1234, beginner python developer from :ru:</h1>
+<h1 align="center">Hello, world! 👋 I'm chempik1234, a python developer from :ru:</h1>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chempik1234)
 
