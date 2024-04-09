@@ -2,5 +2,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chempik1234)
 
-- :snake: Speaking of **python**, I am familiar to **tkinter, PyQT5, pygame, Flask, Django, pymodbus, SQLite** and also **matplotlib, pptx, json** and many other packages
-- :nut_and_bolt: I also know some basics of **C++, C# WPF** and **Java**
+- :snake: Speaking of **python**, I usually use **Django** but I'm also familiar with **PyQT5 & tkinter, Flask & FastAPI** and many simple libraries
+- :nut_and_bolt: I have also written some things in **C#** (WPF, Unity, ASP.NET, MAUI) but I'm not a pro here
+- 📗 Here go the basics of the other languages, such as Java, C++, SQL etc. that I'm not planning to ever use.
