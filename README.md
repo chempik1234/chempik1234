@@ -1,6 +1,7 @@
 <h1 align="center">Hello, world! 👋 I'm chempik1234, a python developer from :ru:</h1>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chempik1234)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - :snake: Speaking of **python**, I usually use **Django** but I'm also familiar with **PyQT5 & tkinter, Flask & FastAPI** and many simple libraries
 - I know the basics of **native JS**
