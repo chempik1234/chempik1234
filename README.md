@@ -3,6 +3,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chempik1234)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chempik1234)](https://github.com/ryo-ma/github-profile-trophy)
 
+My main language is **Python** which I've been learning for approx. 4-5 years
 - :snake: Speaking of **python**, I usually use **Django** but I'm also familiar with **PyQT5 & tkinter, Flask & FastAPI** and many simple libraries
 - I know the basics of **native JS**
 - I can deploy websites on hostings and use additional tools like **Redis** (this list is going to be extended later)
