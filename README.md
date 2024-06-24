@@ -8,7 +8,7 @@
 My main language is **Python** which I've been learning for approx. 4-5 years
 - :snake: Speaking of **python**, I usually use **Django** but I'm also familiar with **PyQT5 & tkinter, Flask & FastAPI** and many simple libraries
 - I know the basics of **native JS**
-- I can deploy websites on hostings and use additional tools like **Redis** (this list is going to be extended later)
+- I can deploy websites on hostings and use additional tools like **Docker** and **Redis** (this list is going to be extended later)
 - :nut_and_bolt: I have also written some things in **C#** (WPF, Unity, ASP.NET, MAUI) but I'm not a pro here
   
   Edit: I've just participated in a competition where I had to make a **Unity VR** game, so I can make Unity games in **C#**
