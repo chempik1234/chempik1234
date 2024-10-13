@@ -6,9 +6,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=chempik1234)](https://github.com/ryo-ma/github-profile-trophy)
 
 My main language is **Python** which I've been learning for approx. 4-5 years
-- :snake: Speaking of **python**, I usually use **Django** but I'm also familiar with **PyQT5 & tkinter, Flask & FastAPI** and many simple libraries
+- :snake: Speaking of **python**, I primarily use **Django & DRF** but I'm also familiar with **FastAPI & Flask, PyQT5 & tkinter** and many simple libraries
+- planning to learn **K8S** and master **FastAPI** as a faster backend framework.
 - I know the basics of **native JS**
-- I can deploy websites on hostings and use additional tools like **Docker** and **Redis** (this list is going to be extended later)
+- I'm familiar with **Docker (-compose)**, **Redis**, **gRPC**, **ElasticSearch** and microservice architecture (this list is going to be extended later)
 - :nut_and_bolt: I have also written some things in **C#** (WPF, Unity, ASP.NET, MAUI) but I'm not a pro here
   
   Edit: I've just participated in a competition where I had to make a **Unity VR** game, so I can make Unity games in **C#**
