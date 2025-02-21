@@ -10,9 +10,9 @@ My main language is **Python** which I've been learning for approx. 4-5 years (M
 - I'm currently learning Golang, an if you do it too, [check this stepik course out](https://stepik.org/course/187490)
 - planning to learn **K8S**
 - I know the basics of **native JS**
-- I'm familiar with **Docker (-compose)**, **Redis**, **gRPC**, **ElasticSearch** and microservice architecture (this list is going to be extended later)
+- I'm familiar with **Docker (-compose)**, **Redis**, **gRPC**, **RabbitMQ**, **ElasticSearch**, hexagonal (ports-based) architecture and microservice architecture (this list is going to be extended later)
 - :nut_and_bolt: I have also written some things in **C#** (WPF, Unity, ASP.NET, MAUI) but I'm not a pro here
   
-- 📗 Here go the basics of the other languages, such as Java, Lua, C++, C# (for Unity) etc. that I'm not planning to ever use.
+- 📗 Here go the basics of the other languages, such as C#, Swift, Java, Lua, C++ etc. that I'm not planning to ever use.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chempik1234)](https://git.io/streak-stats)
