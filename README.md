@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 👋 I'm chempik1234, a **python & Go** developer from :ru:</h1>
+<h1 align="center">Hello, world! 👋 I'm chempik1234, a =| python & Go |= developer from :ru:</h1>
 
 ![](https://komarev.com/ghpvc/?username=chempik1234)
 
