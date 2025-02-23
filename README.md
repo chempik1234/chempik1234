@@ -5,6 +5,8 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chempik1234)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chempik1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chempik1234)](https://github.com/ryo-ma/github-profile-trophy)
 
+## ❗ Disclaimer: The cool code and big projects are PRIVATE, so there're simplier projects left for you to see
+
 My main language is **Python** which I've been learning for approx. 4-5 years (My commercial experience is approx. half a year)
 - :snake: Speaking of **python**, I primarily use **Django/DRF** and **FastAPI** but I'm also familiar with **Flask, PyQT5 & tkinter** and many simple libraries
 - I'm currently learning **Go**, an if you do it too, [check this stepik course out](https://stepik.org/course/187490)
