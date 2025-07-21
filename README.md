@@ -16,7 +16,7 @@ I used to have **Python** as the main language, I had been learning it for appro
 - :snake: Speaking of **python**, I primarily use **Django/DRF** and **FastAPI** but I'm also familiar with **Aiogram3.x, Flask, PyQT5 & tkinter** and many simple libraries
 - I'm currently learning **Go**, an if you do it too, [check this stepik course out](https://stepik.org/course/187490) and especially [this one](https://lyceum.yandex.ru/web-go) if you're a russian student under 19.
  
-- I'm familiar with **NGINX**, **Docker (-compose)**, **Prometheus**, **Grafana**, **Loki**, **Redis**, **gRPC**, **RabbitMQ**, **ElasticSearch**, **Clickhouse**, hexagonal (ports-based) architecture and microservice architecture (this list is going to be extended later)
+- I'm familiar with **Nginx**, **Docker (-compose)**, **Prometheus**, **Grafana**, **Loki**, **Redis**, **gRPC**, **RabbitMQ**, **ElasticSearch**, **Clickhouse** (this list is going to be extended later)
 - :nut_and_bolt: I have also written some things in **C#** (WPF, Unity, ASP.NET, MAUI) but I'm not a pro here, I mean at all.
   
 - 📗 Here go the basics of the other languages, such as JS, C#, Swift, Java, Lua, C++ etc. that I'm not planning to ever use.
