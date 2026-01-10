@@ -23,6 +23,7 @@ I still have **Python** as the main language, I had been learning it for approx.
 ![Docker Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongo Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248)
 ![Redis Badge](https://img.shields.io/badge/redis-%23d00?style=for-the-badge&logo=redis&logoColor=%23fff)
 ![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-%23eee?style=for-the-badge&logo=rabbitmq&logoColor=%23f50)
 ![Kafka Badge](https://img.shields.io/badge/kafka-%23eee?style=for-the-badge&logo=apachekafka&logoColor=%23111)
