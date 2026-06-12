@@ -7,16 +7,17 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chempik1234)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chempik1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chempik1234)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ❗ Disclaimer: Speaking of Python, the cool code and big projects are PRIVATE, so there're simplier projects left for you to see
+## ❗ Disclaimer: Speaking of Python, the cool code and big projects are PRIVATE or GITLAB-ED, so there're simplier projects left for you to see
+
+## ❗ Disclaimer #2: If you find my projects bad, I write architecture ideas in my channel (sometimes): https://t.me/chempik1234
 
 I would want **Golang**, the great and precious, to be my main language, but life is unfair sometimes.
 
-I still have **Python** as the main language, I had been learning it for approx. 4-5 years (My commercial experience is 1.5y)
+I have **Python** as the main language, I had been learning it for approx. 4-5 years (My commercial experience is 1.5y)
 
 ## Daily stack
 
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Docker Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=fff)
